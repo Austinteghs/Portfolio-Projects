@@ -166,3 +166,8 @@ where continent is not null
 
 select *
 from OverallGlobalNumbers
+
+--IMPORTANT NOTE
+
+--Although a few queries were done to create views, the views were left unused. 
+--parts of this query used for TABLEAU Visualisation were copied as tables into seperate excel files and each were imported into TABLEAU PUBLIC DESKTOP for Visualisation.
